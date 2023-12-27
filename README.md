@@ -1,2 +1,2 @@
 # BookStoreApplication
-My Java 2 semester long project!
+ITSC 1213 - Java 2 semester long project
